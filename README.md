@@ -7,7 +7,7 @@
 management (create, update, delete, bookmark), user interactions (likes, comments, reviews), and search
 functionality.
 
-It is said that it takes 21 (straight) days to create a habit so our App is the perfect way to put it to the test!
+
 
 #Challenges
 -Develop an AI-powered recommendation system for suggesting personalized blog posts based on user preferences and historical interactions.
@@ -52,7 +52,7 @@ It is said that it takes 21 (straight) days to create a habit so our App is the 
 1. **Clone the repository.**
    ```bash
    git clone git@github.com:Ashwanikumar1715/A-insights.git
-   git clone git@github.com:Ashwanikumar1715/A-insights.git
+   git clone git@github.com:Ashwanikumar1715/A-insights-api.git
    ```
 2. **Navigate to the project directory.**
 
@@ -63,10 +63,10 @@ It is said that it takes 21 (straight) days to create a habit so our App is the 
 3. **Install dependencies for the frontend and backend..**
 
 ```
-  cd client
+  cd frontend
 npm install
 
-cd ../server
+cd ../backend
 npm install
 ```
 
